@@ -1,0 +1,23 @@
+{
+  "name": "ct-loja-ebac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivaneidepmn/ct-loja-ebac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivaneidepmn/ct-loja-ebac/issues"
+  },
+  "homepage": "https://github.com/ivaneidepmn/ct-loja-ebac#readme",
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}

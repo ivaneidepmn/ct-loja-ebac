@@ -1,0 +1,8 @@
+ # Node.js
+node_modules/
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+#Gitignore
+node_modules/
